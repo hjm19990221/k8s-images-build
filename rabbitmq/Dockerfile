@@ -1,1 +1,1 @@
-FROM rabbitmq:3.11.15-management
+FR0M rabbitmq:3.11.15-management
