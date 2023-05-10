@@ -1,1 +1,1 @@
-FROM  docker.io/bitnami/bitnami-shell:11-debian-11-r109
+FROM  docker.io/bitnami/bitnami-shell:11-debian-11-r108
